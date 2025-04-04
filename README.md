@@ -6,7 +6,7 @@ This repository contains the implementation code for our research work. Please n
 
 Please download the required dataset from the following link and place it in the project root directory or the designated path:
 
-👉 [MOOCCubeX](Insert-your-download-link-here](https://github.com/THU-KEG/MOOCCubeX)
+👉 [MOOCCubeX](https://github.com/THU-KEG/MOOCCubeX)
 
 ## 🚀 Usage Instructions
 
